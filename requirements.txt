@@ -1,4 +1,4 @@
-colorama
 telethon
+argparse
+colorama
 asyncio
-telegram
