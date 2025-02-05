@@ -22,8 +22,8 @@ try:
 except: pass
 sesis = listdir('sessions')
 sesis.sort()
-api_id = 2839216
-api_hash = '967fc90f9013e51dd7fe0713c35e28f8'
+api_id = 24043364
+api_hash = 'b27094593db92b4e76ad1be7fb4ec817'
 if args.help:
     print(f'''Help:
   -an {Fore.LIGHTBLUE_EX}NUMBER{Fore.RESET}, --add-number {Fore.LIGHTBLUE_EX}NUMBER{Fore.RESET} ~> {Fore.YELLOW}add account to script{Fore.RESET}
