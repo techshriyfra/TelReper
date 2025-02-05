@@ -25,8 +25,8 @@ except: pass
 
 sesis = listdir('sessions')
 sesis.sort()
-api_id = 'your_api_id_here'
-api_hash = 'your_api_hash_here'
+api_id = '24043364'
+api_hash = 'b27094593db92b4e76ad1be7fb4ec817'
 
 if args.help:
     print(f'''Help:
